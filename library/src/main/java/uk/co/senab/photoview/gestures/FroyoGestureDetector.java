@@ -73,6 +73,10 @@ public class FroyoGestureDetector extends EclairGestureDetector {
         }
     }
 
+
+
+
+
     public ScaleGestureDetector getmDetector() {
         return mDetector;
     }
